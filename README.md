@@ -3,8 +3,9 @@ A simple Java Swing app that helps users estimate paint needed and total cost fo
 
 The program interacts with users through pop-up dialog boxes using JOptionPane, and supports both regular (rectangular) and irregular room shapes.
 
+---
 
-⚙️ **Features**
+## **Features**
 
 - Welcomes the user by name and provides a friendly, interactive experience.
 
@@ -20,9 +21,9 @@ The program interacts with users through pop-up dialog boxes using JOptionPane, 
 
 - Ends with a personalized thank-you message.
 
+---
 
-
-Example Calculation
+## Example Calculation
 - User enters their name and selects the room shape.
 
 - Enters room dimensions.
