@@ -1,7 +1,7 @@
 # Palette-Perfection 🎨
 A simple Java Swing app that helps users estimate paint needed and total cost for a room. Users can choose a regular (rectangular) room or an irregular room (four wall segments), enter dimensions, and instantly get gallons required and price. Presented using JOptionPane.
 
-The program interacts with users through pop-up dialog boxes using JOptionPane, and supports both regular (rectangular) and irregular room shapes.
+The program interacts with users through pop up dialog boxes using JOptionPane, and supports both regular (rectangular) and irregular room shapes.
 
 ---
 
@@ -19,7 +19,7 @@ The program interacts with users through pop-up dialog boxes using JOptionPane, 
 
 - Displays a formatted report summarizing the surface area, paint required, and total price.
 
-- Ends with a personalized thank-you message.
+- Ends with a personalized thank you message.
 
 ---
 
